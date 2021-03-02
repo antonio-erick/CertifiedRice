@@ -7,7 +7,11 @@
 
 
 -Previous Projects:
+
 TacoByte(Website)
+
 Rusted Battles(Roblox Game)
+
 ForReal Vibes(Discord Bot) 
+
 Rusted Engine(2D Game engine)
