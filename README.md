@@ -1,6 +1,0 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to make games
