@@ -16,4 +16,4 @@ Developer [Percision Studio](https://github.com/Percision-Studio) and [Tacobyte]
 - Unity
 - Unreal Engine
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=certifiedrice&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=certifiedrice&theme=synthwave)
