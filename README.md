@@ -15,3 +15,5 @@ Developer [Percision Studio](https://github.com/Percision-Studio) and [Tacobyte]
 - Roblox 
 - Unity
 - Unreal Engine
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=certifiedrice&theme=radical)
