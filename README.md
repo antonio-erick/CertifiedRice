@@ -17,4 +17,4 @@ Developer at [Percision Studio](https://github.com/Percision-Studio) and [Tacoby
 - Unity
 - Unreal Engine
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=certifiedrice&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=certifiedrice&theme=synthwave) 
