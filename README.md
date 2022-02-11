@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **A roblox game and small unity projects**
 
-- 🌱 I’m currently learning **F#**
+- 🌱 I’m currently learning **Cyber security**
 
 - 👯 I’m looking to collaborate on **Opensource C#, Lua, or Java projects**
 
-- 🤝 I’m looking for help with **F# or PHP**
+- 🤝 I’m looking for help with *C# or PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CertifiedRice](https://github.com/CertifiedRice)
 
