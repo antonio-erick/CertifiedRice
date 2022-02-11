@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CertifiedRIce</h1>
 <h3 align="center">A passionate game developer developer.</h3>
+<h2 align="center">.NET pro</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=certifiedrice&label=Profile%20views&color=0e75b6&style=flat" alt="certifiedrice" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🔭 I’m currently working on **A roblox game and small unity projects**
 
-- 🌱 I’m currently learning **Cyber security**
+- 🌱 I’m currently learning **ReatJS**
 
 - 👯 I’m looking to collaborate on **Opensource C#, Lua, or Java projects**
 
