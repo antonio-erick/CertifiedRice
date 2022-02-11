@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Opensource C#, Lua, or Java projects**
 
-- 🤝 I’m looking for help with *C# or PHP**
-
 - 👨‍💻 All of my projects are available at [https://github.com/CertifiedRice](https://github.com/CertifiedRice)
 
 - 📝 I regularly write articles on [https://certifiedrice.github.io/](https://certifiedrice.github.io/)
