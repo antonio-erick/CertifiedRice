@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ***A roblox game and a minecraft server***
 
-- 🌱 I’m currently learning **ReatJS**
+- 🌱 I’m currently learning ...
 
 - 👯 I’m looking to collaborate on **Opensource C#, Lua, or Java projects**
 
