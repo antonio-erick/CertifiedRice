@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CertifiedRice](https://github.com/CertifiedRice)
 
-- 📝 I regularly write articles on [My blog page](https://certifiedrice.github.io/pages/blog/blog.html)
+- 📝 I regularly write articles [here](https://certifiedrice.github.io/pages/articles/articles.html)
 
 - 💬 Ask me about **Lua, C#, Roblox studio**
 
