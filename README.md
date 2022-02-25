@@ -41,3 +41,4 @@
 
 # Maintained projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=certifiedrice&repo=certifiedrice.github.io&theme=synthwave)](https://github.com/CertifiedRice/certifiedrice.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=certifiedrice&repo=forreal-vibes&theme=synthwave)](https://github.com/CertifiedRice/ForReal-Vibes)
