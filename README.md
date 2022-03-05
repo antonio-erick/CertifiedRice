@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=certifiedrice" alt="certifiedrice" /></a> </p>
 
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=certifiedrice&theme=radical&hide_border=true)](\https://github.com/CertifiedRice/)
+
 - 🔭 I’m currently working on ***A roblox game and a minecraft server***
 
 - 🌱 I’m currently learning [Godot Engine and GdScript](https://godotengine.org/)
@@ -42,3 +44,4 @@
 # Maintained projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=certifiedrice&repo=certifiedrice.github.io&theme=synthwave)](https://github.com/CertifiedRice/certifiedrice.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=certifiedrice&repo=forreal-vibes&theme=synthwave)](https://github.com/CertifiedRice/ForReal-Vibes)
+<a href="https://github.com/certifiedrice"><img alt="Tran Phu Quy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=certifiedrice&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
