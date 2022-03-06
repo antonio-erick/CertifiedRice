@@ -44,4 +44,4 @@
 # Maintained projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=certifiedrice&repo=certifiedrice.github.io&theme=synthwave)](https://github.com/CertifiedRice/certifiedrice.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=certifiedrice&repo=forreal-vibes&theme=synthwave)](https://github.com/CertifiedRice/ForReal-Vibes)
-<a href="https://github.com/certifiedrice"><img alt="Tran Phu Quy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=certifiedrice&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/antonio-erick"><img alt="Tran Phu Quy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=antonio-erick&bg_color=1F222E&color=F7F9F9&line=F7F9F9&point=F7F9F9&hide_border=true" /></a>
